@@ -9,4 +9,4 @@ class Result {
   }
 }
 const result = new Result();
-console.log(result.disance(new Roint(5, 7), new Result(11, 24)));
+console.log(result.disance(new Result(5, 7), new Result(11, 24)));
